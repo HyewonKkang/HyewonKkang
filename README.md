@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=e6c0fc&height=50&section=header&text=Hi%20there✨&fontSize=30&animation=fadeIn&fontAlign=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=e6c0fc&height=50&section=header&text=Hi!%20I'm%20HyewonKkang!✨&fontSize=20&animation=fadeIn&fontAlign=50&fontColor=ffffff)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyewonKkang&&title_color=ba7be0&show_icons=true&icon_color=fa8c9e)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyewonKkang&layout=compact&title_color=ba7be0)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyewonKkang&layout=compact&title_color=ba7be0)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **HyewonKkang/HyewonKkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
