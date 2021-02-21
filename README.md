@@ -1,4 +1,5 @@
-### Hi there ✨
+![header](https://capsule-render.vercel.app/api?type=rounded&color=e6c0fc&height=100&section=header&text=Hi%20there✨&fontSize=50&animation=fadeIn&fontAlign=50&fontColor=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyewonKkang&layout=compact&title_color=ba7be0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HyewonKkang/HyewonKkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
