@@ -5,7 +5,7 @@
 </div>
 
 ### Profile
-- Hi, this is Hyewon from South Korea!
+- Hi, this is Hyewon from South Korea🇰🇷.
 - I'm majoring in Computer Science Engineering at Dongguk University.
 - I'm currently learning React, NodeJS.
 
