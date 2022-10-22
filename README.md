@@ -11,7 +11,7 @@ I'm currently learning React, NodeJS.
 - (22.08 - 22.12) Naver Boostcamp web·mobile 7th Membership
 
 ## Contact 📞
-<a href="https://velog.io/@hyewonkkang/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@hyewonkkang/"/></a>
+<a href=""><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@hyewonkkang/"/></a>
 <a href="mailto:gpffps369@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpffps369@gmail.com"/></a>
 
 ## Stats
