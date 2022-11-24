@@ -5,10 +5,11 @@ I'm currently learning React, NodeJS.
 
 
 ## Experince 💻
-- (19.03 - ) Dongguk University Computer Science Engineering
-- (21.09 - 22.08) 42 Seoul 5th Cadet
-- (22.07 - 22.08) Naver Boostcamp web·mobile 7th Challenge
 - (22.08 - 22.12) Naver Boostcamp web·mobile 7th Membership
+- (22.07 - 22.08) Naver Boostcamp web·mobile 7th Challenge
+- (21.09 - 22.08) 42 Seoul 5th Cadet
+- (19.03 - ) Dongguk University Computer Science Engineering
+
 
 ## Contact 📞
 <a href=""><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@hyewonkkang/"/></a>
