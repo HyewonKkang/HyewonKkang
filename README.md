@@ -5,8 +5,8 @@ I'm currently learning React, NodeJS.
 
 
 ## Experince 💻
-- (22.08 - 22.12) Naver Boostcamp web·mobile 7th Membership
-- (22.07 - 22.08) Naver Boostcamp web·mobile 7th Challenge
+- (22.08 - 22.12) 네이버 커넥트재단 부스트캠프 웹·모바일 7기 멤버십
+- (22.07 - 22.08) 네이버 커넥트재단 부스트캠프 웹·모바일 7기 챌린지
 - (21.09 - 22.08) 42 Seoul 5th Cadet
 - (19.03 - ) Dongguk University Computer Science Engineering
 
