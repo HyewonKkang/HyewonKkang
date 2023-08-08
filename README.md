@@ -11,9 +11,16 @@ I'm currently learning React, NodeJS.
 - (21.09 - 22.08) 42 Seoul 5th Cadet
 - (19.03 - ) Dongguk University Computer Science Engineering
 
+## Awards 🏆
+- 제5회 KB국민은행 소프트웨어 경진대회 [우수상], 사피엔스 4.0 (2022.11)
+- 2021 인공지능 데이터 기반 서비스 공모전 [장려상], 과학기술정보통신부, NIA 한국지능정보사회진흥원 (2021.12)
+- 2021년 공개SW 개발자대회 [동상], 과학기술정보통신부 (2021.11)
+- 제2회 창의 혁신 캡스톤 디자인 경진대회 [최우수상], 한국산학협력학회(KSIC) (2021.11)
+- 2021 캡스톤디자인 밸류업 [우수상], 동국대학교 LINC+ 사업단 (2021.08)
+
 
 ## Contact 📞
-<a href="https://hyewonkkang.github.io/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@hyewonkkang/"/></a>
+<a href="https://velog.io/@hyewon_kkang"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://velog.io/@hyewonkkang/"/></a>
 <a href="mailto:gpffps369@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gpffps369@gmail.com"/></a>
 
 <!-- ## Stats
