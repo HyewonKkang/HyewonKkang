@@ -5,6 +5,7 @@ I'm currently learning React, NodeJS.
 
 
 ## Experince 💻
+- (24.01 - 24.02) 2024 카카오 겨울 인턴십(FE)
 - (23.01 - 23.03) 비바리퍼블리카 Toss UX Engineer Assistant (PC Design Platform Team)
 - (22.08 - 22.12) 네이버 커넥트재단 부스트캠프 웹·모바일 7기 멤버십
 - (22.07 - 22.08) 네이버 커넥트재단 부스트캠프 웹·모바일 7기 챌린지
