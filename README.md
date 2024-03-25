@@ -5,12 +5,13 @@ I'm currently learning React, NodeJS.
 
 
 ## Experince 💻
+- (24.03 - ) 카카오 다음채널개발파트 Developer
 - (24.01 - 24.02) 2024 카카오 겨울 인턴십(FE)
 - (23.01 - 23.03) 비바리퍼블리카 Toss UX Engineer Assistant (PC Design Platform Team)
 - (22.08 - 22.12) 네이버 커넥트재단 부스트캠프 웹·모바일 7기 멤버십
 - (22.07 - 22.08) 네이버 커넥트재단 부스트캠프 웹·모바일 7기 챌린지
 - (21.09 - 22.08) 42 Seoul 5th Cadet
-- (19.03 - ) Dongguk University Computer Science Engineering
+- (19.03 - 24.02) Dongguk University Computer Science Engineering
 
 ## Awards 🏆
 - 제5회 KB국민은행 소프트웨어 경진대회 [우수상], 사피엔스 4.0 (2022.11)
